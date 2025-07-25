@@ -1,0 +1,1 @@
+print('rama is going to class')
